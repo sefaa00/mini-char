@@ -4,4 +4,4 @@ Une ligne et un fichier par séance. Pour en ajouter une, copier [`modele-seance
 
 | Séance | Date | Résumé |
 |---|---|---|
-| *01* | *JJ/MM/AAAA* | *À compléter* |
+| *01* | *06/11/2026* | Séance CAO avec monsieur Lebreton |/
