@@ -13,12 +13,7 @@ Mini char sur chenilles piloté par radiocommande, avec une tourelle caméra, un
 - Mode automatique, activé par un bouton : la tourelle vise et suit l'objet au centre de l'image
 - Tir de balles en mousse, déclenché par un bouton
 
-## Équipe
 
-| Nom | Partie |
-|---|---|
-| Zinc | Cahier des charges et choix matériels |
-| *À compléter* | *À compléter* |
 
 ## Avancement
 
