@@ -14,23 +14,3 @@ Mini char sur chenilles piloté par radiocommande, avec une tourelle caméra, un
 - Tir de balles en mousse, déclenché par un bouton
 
 
-
-## Avancement
-
-| Module | État |
-|---|---|
-| [Caméra et traitement d'image](modules/01-camera/README.md) | À faire |
-| [Tourelle 2 axes](modules/02-tourelle/README.md) | À faire |
-| [Chenilles](modules/03-chenilles/README.md) | Châssis monté |
-| [Canon et modélisation](modules/04-canon/README.md) | À faire |
-| [Distribution d'énergie](modules/05-energie/README.md) | À faire |
-| [Radiocommande](modules/06-radiocommande/README.md) | À faire |
-
-## Organisation du dépôt
-
-```text
-journal/   compte rendu de chaque séance
-docs/      cahier des charges et rapport bibliographique
-modules/   code, schémas et CAO de chaque module
-media/     photos et courtes vidéos
-```
