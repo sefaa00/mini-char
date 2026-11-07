@@ -5,10 +5,9 @@
 ## Objectifs de la séance
 
 - [ ] Modéliser le canon en 3D
-- [ ] Concevoir le réservoir et le chargement automatique des balles
-- [ ] Finir l'assemblage complet du char sur fusion
-## Travail réalisé
 
+## Travail réalisé
+Modélisation du canon en 3D
 ## Résultats et tests
 
 <!-- Mesures, photos ou vidéos : ![description](../media/nom-du-fichier.jpg) -->
